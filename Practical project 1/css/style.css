@@ -1,0 +1,15 @@
+.topimage {
+  width: 150px; }
+
+.navigationbar .nav-link {
+  padding: 0.5rem 0.5rem; }
+
+.green-background {
+  background-color: rgba(0, 255, 0, 0.3); }
+
+.grey-text {
+  color: grey; }
+
+.grey-background {
+  background-color: grey;
+  margin: 0; }
